@@ -1,7 +1,8 @@
 # Module 10 Challenge - SQL Alchemy Challenge
 
 ## Background
-* Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii.
+* Congratulations!
+* You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii.
 * To help with your trip planning, you decide to do a climate analysis about the area.
 
 ## Instructions
